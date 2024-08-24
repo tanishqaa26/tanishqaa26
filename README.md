@@ -2,7 +2,8 @@
 ## I am Tanishqa Soni, A Student of Artificial Intelligence stream.
 
 🔭 I’m currently working on Projects related to AIML <br>
-🌱 I’m currently learning Python and React.js 
+🌱 I’m currently learning Python and React.js <br>
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=tanishqaa26&label=Profile%20Views&color=5&icon=0&pretty=true" />
 </a>
