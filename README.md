@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Got new ideas to work on and bring them to life? Let's build together!! 👋
 
 <!--
 **tanishqaa26/tanishqaa26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
