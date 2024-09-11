@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Projects related to web development and AIML <br>
 🌱 I’m currently learning Python and React.js <br>
-✨ Interested in collaborations
+✨ Interested in collaborations <br>
 📧 Reach me at: tanishqa2003soni@gmail.com
 
 
